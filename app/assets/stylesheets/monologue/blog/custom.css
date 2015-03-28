@@ -1,1 +1,3 @@
-/* this file is only here to be overridden */
+body {
+  background-color: black;
+}
